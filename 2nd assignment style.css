@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.maincontainer{
+    background-color: rgb(107, 43, 226);
+    color:#fff;
+}
+form{
+   
+    /* background-color: rgb(107, 43, 226); */
+    line-height: 2em;
+}
+
+h1>p{
+    color:rgb(107, 43, 226);
+}
+
+h2{
+    color: blueviolet;
+}
+a>h2{
+    color: rgb(60, 184, 58);
+}
+p{
+    color: blueviolet;
+}

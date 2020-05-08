@@ -1,0 +1,207 @@
+.main{
+    background-color: royalblue;
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+.main-1{
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.d-block{
+    width: 1600px;
+    height: 500px;
+}
+.slide{
+    justify-content: center;
+    width: 1600px;
+}
+.out{
+    padding-bottom: 30px;
+    margin: 2px 30px 2px 30px;
+    text-align: justify;
+    justify-content: center;
+    font-size: 15px;
+}
+.home{
+    margin: 7px 20px 5px 20px;
+}
+input{
+    width: 100px;
+    border: none;
+}
+.one{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.two{
+    margin-left: 100px;
+}
+.three{
+    margin-left: 70px;
+}
+.buttn{
+    margin-left: 220px;
+}
+.btn:hover{
+    color: white;
+    background-color: royalblue;
+}
+
+.saylani-icon{
+    width: 200px;
+    position: relative;
+    text-align: center;
+}
+.saylani-icon::before{
+
+    content:"";
+    position: absolute;
+    width:30px;
+    height: 2px;
+    background-color: green;
+    top:25px;
+    right:46px
+    
+}
+.saylani-icon::after{
+
+    content:"";
+    position: absolute;
+    width:30px;
+    height: 2px;
+    background-color: green;
+    top:25px;
+    left: 46px;
+    
+}
+.m--2{
+    background-color: whitesmoke;
+    padding-bottom: 30px;
+}
+.m-2{
+    
+    text-align: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+h3{
+    color: royalblue;
+}
+h4{
+    color: royalblue;
+}
+h1{
+    color: royalblue;
+    padding-top: 50px;
+    text-align: center;
+}
+.even{
+    padding: 30px 5px 5px 100px ;
+}
+.items{
+    background-color: white;
+    padding-top: 20px;
+    margin-left: 200px;
+    width: 400px;
+    height: 200px;
+    margin:10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow:10px 10px 10px lightgrey;
+}
+.item-2{
+    background-color: whitesmoke;
+    border: 2px solid white;   
+    margin-left: 30px;
+    padding: 5px 10px 5px 10px;
+    width: 150px;
+    height: 75px;
+ 
+}
+
+.show-slide{
+    justify-content: center;
+    margin: 10px 5px 10px 200px;
+}
+.pad{
+    margin: 10px 50px 10px 100px;
+}
+.m-1{
+    text-align: center;
+    justify-content: center;
+}
+#five{
+    display: inline-block;
+    padding: 20px 30px 20px 150px;
+}
+.non{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+}
+#six{
+    display: inline-block;
+ 
+}
+#seven{
+    display: inline-block; 
+}
+.itemss{
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 400px;
+    height: 50px;
+    border: 1px solid lightgrey;
+}
+p>a{
+    padding-top: 50px;
+    padding-left: 80px;
+    
+}
+.a-1::before{
+    content:"";
+    position: absolute;
+    width:30px;
+    height: 2px;
+    background-color: green;
+    top:25px;
+    left: 70px;
+
+}
+.aabb{
+    
+    margin-left: 200px;
+    padding-top: 30px;
+}
+.aabbc{
+    margin-left: 50px;
+    width: 250px;
+    padding-top:30px ;
+    
+}
+.bgc{
+    margin-top: 200px;
+    background-color: rgba(6, 6, 12, 0.849);
+    color: white;
+
+    
+}
+#para{
+    font-size: 15px;
+    width: 350px;
+}
+.abg{
+    padding-top: 40px;
+    margin-left: 100px;
+    width: 300px;
+}
+.top{
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+}
